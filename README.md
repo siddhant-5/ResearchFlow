@@ -1,6 +1,6 @@
 
 ### Overview
-This project evaluates research papers (PDF) using an LLM-driven multi-agent system and provides a structured review with publishability judgment and a suggested target conference. It is built for the Kharagpur Data Science Hackathon 2025 by Team HACKTIVATE.
+This project evaluates research papers (PDF) using an LLM-driven multi-agent system and provides a structured review with publishability judgment and a suggested target conference.
 
 ---
 
@@ -55,6 +55,3 @@ Notes:
 Built for the Kharagpur Data Science Hackathon 2025 by Team HACKTIVATE.
 
 ---
-
-### License
-MIT License
