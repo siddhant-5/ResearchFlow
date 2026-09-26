@@ -1,0 +1,10 @@
+streamlit
+nltk
+rich
+langchain_groq
+langchain-community
+langchain-huggingface
+pypdf
+pymongo
+reportlab
+pandas
