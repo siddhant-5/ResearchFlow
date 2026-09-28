@@ -50,8 +50,3 @@ Notes:
 - Smaller PDFs process faster; very large files may take significantly longer.
 
 ---
-
-### Acknowledgements
-Built for the Kharagpur Data Science Hackathon 2025 by Team HACKTIVATE.
-
----
